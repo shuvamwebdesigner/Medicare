@@ -1,0 +1,144 @@
+.banner-slider-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px 0;
+    padding: 30px;
+}
+
+.slider-wrapper {
+    position: relative;
+    overflow: hidden;
+    border-radius: 15px;
+}
+
+.slider-container {
+    display: flex;
+    transition: transform 0.6s ease-in-out;
+}
+
+.slide {
+    min-width: 100%;
+    user-select: none;
+}
+
+.slide-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.slide-images {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.banner-item {
+    position: relative;
+    width: 48%;
+}
+
+.slide img {
+    width: 100%;
+    display: block;
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+.banner-btn {
+    position: absolute;
+    bottom: 15px;
+    left: 20%;
+    transform: translateX(-50%);
+    background: #2184fb;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 8px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    opacity: 0.9;
+    transition: opacity 0.3s ease, background-color 0.3s ease;
+}
+
+.banner-btn:hover {
+    opacity: 1;
+    background-color: #0056b3;
+}
+
+/* Navigation Arrows */
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #2184fb;
+    border: none;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 27px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+    z-index: 10;
+    user-select: none;
+}
+.arrow:hover {
+    opacity: 1;
+}
+.arrow-left {
+    left: 25px;
+}
+.arrow-right {
+    right: 25px;
+}
+
+/* Pagination dots */
+.dots-container {
+    text-align: center;
+    padding: 12px 0;
+    border-radius: 0 0 15px 15px;
+}
+
+.dot {
+    display: inline-block;
+    width: 20px;
+    height: 5px;
+    margin: 0 5px;
+    background-color: #8bb8f7;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.dot.active {
+    background-color: #2184fb;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .slider-wrapper {
+        width: 90%;
+    }
+    .banner-item {
+        width: 100%;
+    }
+    .slide-images {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .banner-btn {
+        bottom: 10px;
+        padding: 6px 16px;
+        font-size: 12px;
+    }
+    .arrow {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+    }
+}
