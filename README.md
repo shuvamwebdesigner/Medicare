@@ -9,7 +9,7 @@
 <h2>Run Locally:</h2>
 <ul>
   <li>Start Apache and MySQL in XAMPP.</li>
-  <li>Access the site at http://localhost/[YourRepoName].</li>
+  <li>Access the site at <b>http://localhost/[YourRepoName]<b>.</li>
 </ul>
 
 <h2>🌟 Features</h2>
