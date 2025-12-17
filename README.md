@@ -1,6 +1,11 @@
 # Medicare Pharma - E-Commerce Medicine Store
 <p>A comprehensive e-commerce platform for pharmaceutical products built with PHP, MySQL, and Bootstrap. This modern medicine store offers a complete shopping experience with user authentication, product catalog, shopping cart, secure checkout, and order management.</p>
 
+<h2>Important:</h2>
+<h3>From your database users table you should insert manualy as admin login details name, email, password(should be password_hash) and must be add role <b>"admin"</b></h3>
+<img width="1126" height="351" alt="admin login details" src="https://github.com/user-attachments/assets/def8bb99-edee-4458-8018-9bd003cba0bb" />
+
+
 <h2>Demo Video</h2>
 <b>Google Drive link:</b>Comming soon....
 
