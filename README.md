@@ -5,6 +5,9 @@
 <h3>From your database users table you should insert manualy as admin login details name, email, password(should be password_hash) and must be add role <b>"admin"</b></h3>
 <img width="1126" height="351" alt="admin login details" src="https://github.com/user-attachments/assets/def8bb99-edee-4458-8018-9bd003cba0bb" />
 
+<h3>📁 Screenshots</h3>
+<img width="1366" height="768" alt="user access" src="https://github.com/user-attachments/assets/f9cd3fe8-f1e0-4f75-8057-7f23dd655065" />
+
 
 <h2>Demo Video</h2>
 <b>Google Drive link:</b>Comming soon....
