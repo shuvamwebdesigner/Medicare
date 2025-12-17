@@ -6,6 +6,12 @@
   <li>Create a MySQL database named <b>medicine_store</b>.</li>
   <li>Import the provided <b>medicine_store.sql</b> file to set up tables (you can find in db file).</li>
 </ul>
+<h2>Run Locally:</h2>
+<ul>
+  <li>Start Apache and MySQL in XAMPP.</li>
+  <li>Access the site at http://localhost/[YourRepoName].</li>
+</ul>
+
 <h2>🌟 Features</h2>
 <h3>🛒 Customer Features</h3>
 <ul>
