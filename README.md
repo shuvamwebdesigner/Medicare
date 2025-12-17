@@ -1,5 +1,11 @@
 # Medicare Pharma - E-Commerce Medicine Store
 <p>A comprehensive e-commerce platform for pharmaceutical products built with PHP, MySQL, and Bootstrap. This modern medicine store offers a complete shopping experience with user authentication, product catalog, shopping cart, secure checkout, and order management.</p>
+<h2>Set Up Environment:</h2>
+<ul>
+  <li>Install XAMPP or a similar stack (Apache, MySQL, PHP).</li>
+  <li>Create a MySQL database named medicine_store.</li>
+  <li>Import the provided medicine_store.sql file to set up tables (you can find in db file).</li>
+</ul>
 <h2>🌟 Features</h2>
 <h3>🛒 Customer Features</h3>
 <ul>
