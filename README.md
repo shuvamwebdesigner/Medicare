@@ -3,8 +3,8 @@
 <h2>Set Up Environment:</h2>
 <ul>
   <li>Install XAMPP or a similar stack (Apache, MySQL, PHP).</li>
-  <li>Create a MySQL database named medicine_store.</li>
-  <li>Import the provided medicine_store.sql file to set up tables (you can find in db file).</li>
+  <li>Create a MySQL database named <b>medicine_store</b>.</li>
+  <li>Import the provided <b>medicine_store.sql</b> file to set up tables (you can find in db file).</li>
 </ul>
 <h2>🌟 Features</h2>
 <h3>🛒 Customer Features</h3>
