@@ -6,13 +6,13 @@
 <img width="1126" height="351" alt="admin login details" src="https://github.com/user-attachments/assets/def8bb99-edee-4458-8018-9bd003cba0bb" />
 
 <h3>📁 Screenshots</h3>
-## User access
+<b> User access</b>
 <img width="1366" height="768" alt="user access" src="https://github.com/user-attachments/assets/f9cd3fe8-f1e0-4f75-8057-7f23dd655065" />
-## Admin access
+<b> Admin access</b>
 <img width="1366" height="554" alt="admin access" src="https://github.com/user-attachments/assets/d34ef0c6-cd77-412d-8a31-002f01d33596" />
-## Admin dashboard
+<b> Admin dashboard</b>
 <img width="1366" height="768" alt="admin dashboard" src="https://github.com/user-attachments/assets/dd052e16-08bf-4b95-a5cf-298598a48785" />
-## Index page
+<b> Index page</b>
 <img width="1366" height="768" alt="Screenshot 2025-12-17 104641" src="https://github.com/user-attachments/assets/b1e3654f-9682-499f-93ec-39a013366bb0" />
 
 
